@@ -1,5 +1,3 @@
-Here is the professional English version of your project documentation, refined for a GitHub README or a portfolio project.
-
 💬 ChatRoom — WebSocket + React + Tailwind
 A real-time group chat application built to master WebSockets for bi-directional communication.
 
